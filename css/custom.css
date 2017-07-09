@@ -1,0 +1,155 @@
+body{
+    
+}
+
+.topheader{
+    padding: 0px 0px 0px 0px;
+    border-bottom: 1px solid #ccc;
+    color: #666;
+}
+.toplft {
+    width: auto;
+    display: block;
+    border-left: 1px solid #ccc;
+    border-right:1px solid #ccc;
+    padding: 11px;
+    width: 180px;
+    text-align: center;
+}
+
+.topnumber {
+    width: 140px%;
+    float: right;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    padding: 11px;
+    text-align: center;
+}
+
+.smc {
+    width: 140px;
+    float: right;
+    border-right: 1px solid #ccc;
+    padding: 11px;
+    text-align: center;
+}
+
+.smc ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+.smc ul li{
+    list-style: none;
+    display: block;
+    float: left;
+    padding: 0px 8px 0px 8px;
+}
+
+.smc ul li a{
+    text-decoration: none;
+    color: #000;
+}
+
+.smc ul li a:hover {
+    text-decoration: none;
+    color: gold;
+}
+
+.colorit {
+    background-color: none !Important;
+}
+
+.padlr {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 18px;
+    padding-bottom: 11px;
+    margin-bottom: 6px;
+}
+
+.navbar-inverse {
+    background: none;
+    border: none;
+}
+
+.navbar-brand {
+    color: #000 !Important;
+    font-weight: bold;
+}
+
+.navbar-brand:hover {
+    color: gold !Important;
+    font-weight: bold;
+}
+
+.navbar-inverse .navbar-nav li a {
+    color: black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.navbar-inverse .navbar-nav li a:hover,
+.navbar-inverse .navbar-nav li a:focus {
+    color: gold;
+    background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav li a.lbg {
+    color: white;
+    background-color: gold;
+}
+
+
+.margin-right {
+    margin-right: 3px;
+}
+
+.nav {
+    margin-top: 7px;
+}
+
+.sec-pad {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.title-h {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.title-h span {
+
+}
+
+.icn span {
+    display: block;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    padding: 27px 20px 20px 20px;
+    background-color: #f5f5f5;
+    margin: auto;
+    text-align: center;
+    color: #000;
+    font-size: 25px;
+}
+
+.icn h4 {
+    text-align: center;
+}
+
+.icn-des {
+    text-align: center;
+}
+.margin-bottom {
+    margin-bottom: 30px;
+}
+.success:hover {
+    color: gold;
+}
+
+.large {
+    font-size: 40px;
+}
